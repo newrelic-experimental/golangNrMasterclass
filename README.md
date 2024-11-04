@@ -2,7 +2,7 @@
 
 # DevRel Workshop - Golang Instrumentation with New Relic
 
-New Relic for Go monitors your Go language applications and microservices to help you identify and solve performance issues. You can also use your data to improve your customers' experience and make data-driven business decisions. 
+[New Relic for Go](https://docs.newrelic.com/docs/apm/agents/go-agent/installation/install-new-relic-go/) monitors your Go language applications and microservices to help you identify and solve performance issues. You can also use your data to improve your customers' experience and make data-driven business decisions. 
 
 In this DevRel workshop, you learn how to instrument Golang apps with New Relic. Go is a compiled language, will require manual instrumentation, and doesn’t use a virtual machine. The best way to monitor Go applications is to use the [Go API](https://docs.newrelic.com/docs/apm/agents/go-agent/api-guides/guide-using-go-agent-api), and get started with the official page from New Relic for Golang in [GitHub](https://github.com/newrelic/go-agent). 
 
